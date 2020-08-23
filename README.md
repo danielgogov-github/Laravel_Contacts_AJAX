@@ -21,7 +21,7 @@ cp .env.example .env
 
 04. Set database, database username and database password
 ```
-DB_DATABASE=laravel_contacts_authentication
+DB_DATABASE=laravel_contacts_ajax
 DB_USERNAME=username
 DB_PASSWORD=password
 ```
